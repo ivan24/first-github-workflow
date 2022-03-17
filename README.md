@@ -1,1 +1,1 @@
-# hexlet-my-first-workflow-
+# first-github-workflow
